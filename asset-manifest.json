@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/desafio-router-react/static/css/main.ef9a9318.css",
-    "main.js": "/desafio-router-react/static/js/main.1dd002e9.js",
+    "main.js": "/desafio-router-react/static/js/main.5a2a1e88.js",
     "static/media/contato.jpg": "/desafio-router-react/static/media/contato.1bd9bf2dc50673043059.jpg",
     "index.html": "/desafio-router-react/index.html",
     "main.ef9a9318.css.map": "/desafio-router-react/static/css/main.ef9a9318.css.map",
-    "main.1dd002e9.js.map": "/desafio-router-react/static/js/main.1dd002e9.js.map"
+    "main.5a2a1e88.js.map": "/desafio-router-react/static/js/main.5a2a1e88.js.map"
   },
   "entrypoints": [
     "static/css/main.ef9a9318.css",
-    "static/js/main.1dd002e9.js"
+    "static/js/main.5a2a1e88.js"
   ]
 }
