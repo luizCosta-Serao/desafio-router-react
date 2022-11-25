@@ -7,3 +7,15 @@
 .nome {
   margin: .5rem 0;
 }
+
+@media (max-width:768px) {
+  .produtos {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width:400px) {
+  .produtos {
+    grid-template-columns: 1fr;
+  }
+}
